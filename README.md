@@ -4,7 +4,7 @@ Getting good means practicing. Non stop praticing, everyday.
 
 
 
-![alt tag](https://giphy.com/embed/LSKHkpRJySs5W81D7B)
+![alt tag](https://media.giphy.com/media/J0nJNHnnukpJm/giphy.gif)
 
 ## How It's Made:
 
