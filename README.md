@@ -21,4 +21,4 @@ Codewars Completed:
 
 [find-nearst-square-number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/)
 [You-only-one-beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/javascript)
-
+[Is-it-even](https://www.codewars.com/kata/555a67db74814aa4ee0001b5/javascript)
