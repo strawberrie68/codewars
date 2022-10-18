@@ -23,3 +23,4 @@ Memorizing vs applying are two different animals
 * [You-only-one-beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/javascript) </br>
 * [Is-it-even](https://www.codewars.com/kata/555a67db74814aa4ee0001b5/javascript)</br>
 * [esreveR](https://www.codewars.com/kata/5413759479ba273f8100003d/javascript)</br>
+* [254-shades-of-grey](https://www.codewars.com/kata/54d22119beeaaaf663000024)
