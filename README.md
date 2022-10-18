@@ -1,6 +1,7 @@
 # Codewars
 
-Getting good means practicing. Non stop praticing, everyday. 
+Sometimes it might feel like your hit a brick wall but getting good means practicing. 
+Non stop praticing, everyday. 
 
 
 
