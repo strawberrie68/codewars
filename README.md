@@ -23,4 +23,8 @@ Memorizing vs applying are two different animals
 * [You-only-one-beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/javascript) </br>
 * [Is-it-even](https://www.codewars.com/kata/555a67db74814aa4ee0001b5/javascript)</br>
 * [esreveR](https://www.codewars.com/kata/5413759479ba273f8100003d/javascript)</br>
-* [254-shades-of-grey](https://www.codewars.com/kata/54d22119beeaaaf663000024)
+* [254-shades-of-grey](https://www.codewars.com/kata/54d22119beeaaaf663000024)</br>
+* [Vowel-count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)</br>
+* [Disemvowel-Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)</br>
+* [Convert-a-Number-to-a-String](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/)</br>
+* [Highest-and-Lowest]https://www.codewars.com/kata/554b4ac871d6813a03000035)</br>
