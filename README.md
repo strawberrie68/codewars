@@ -31,3 +31,4 @@ Memorizing vs applying are two different animals
 * [Whats-the-real-floor](https://www.codewars.com/kata/574b3b1599d8f897470018f6/)</br>
 * [Opposite-number](https://www.codewars.com/kata/56dec885c54a926dcd001095/)</br>
 * [Get-the-Middle-Character](https://www.codewars.com/kata/56747fd5cb988479af000028/)</br>
+* [String-repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7)<br>
