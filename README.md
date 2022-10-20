@@ -1,23 +1,25 @@
-# 👩‍💻 Codewars
+# 👩‍💻 Codewars 
 
-Sometimes it might feel like your hit a brick wall but getting good means practicing. 
+Sometimes it might feel like you  are hitting a brick wall</br> but getting good means practicing. 
 </br>Non stop praticing, everyday. 
-
-
+</br>
 
 ![alt tag](https://media.giphy.com/media/J0nJNHnnukpJm/giphy.gif)
 
 ## 📊 How It's Made:
 
-**Tech used:**JavaScript
+**Tech used:** JavaScript
 
-Just a record of some of the codewars I have completed.
+Just a record of some of the codewars I have completed. </br>
+</br>
 
 ## 📝 Lessons Learned:
 
-Memorizing vs applying are two different animals
+Memorizing vs applying are two different animals </br>
+For Each problem, I compared my solution and how I could optimize it. </br>
+</br>
 
-### 💪 Codewars Completed:
+### 💪 **Codewars Completed:**
 
 * [find-nearst-square-number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/) </br>
 * [You-only-one-beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/javascript) </br>
