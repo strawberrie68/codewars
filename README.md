@@ -27,7 +27,7 @@ Memorizing vs applying are two different animals
 * [Vowel-count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)</br>
 * [Disemvowel-Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)</br>
 * [Convert-a-Number-to-a-String](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/)</br>
-* [Highest-and-Lowest]https://www.codewars.com/kata/554b4ac871d6813a03000035)</br>
+* [Highest-and-Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)</br>
 * [Whats-the-real-floor](https://www.codewars.com/kata/574b3b1599d8f897470018f6/)</br>
 * [Opposite-number](https://www.codewars.com/kata/56dec885c54a926dcd001095/)</br>
 * [Get-the-Middle-Character](https://www.codewars.com/kata/56747fd5cb988479af000028/)</br>
