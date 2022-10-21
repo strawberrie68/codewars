@@ -34,3 +34,6 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Opposite-number](https://www.codewars.com/kata/56dec885c54a926dcd001095/)</br>
 * [Get-the-Middle-Character](https://www.codewars.com/kata/56747fd5cb988479af000028/)</br>
 * [String-repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7)<br>
+* [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/)</br>
+* [Vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039/)</br>
+* [No-Loops-2-You-only-need-one](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/)</br>
