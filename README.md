@@ -37,3 +37,4 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/)</br>
 * [Vowel-remover](https://www.codewars.com/kata/5547929140907378f9000039/)</br>
 * [No-Loops-2-You-only-need-one](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/)</br>
+* [Multiply-Word-in-String](https://www.codewars.com/kata/5ace2d9f307eb29430000092)
