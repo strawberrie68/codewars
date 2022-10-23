@@ -39,3 +39,4 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [No-Loops-2-You-only-need-one](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/)</br>
 * [Multiply-Word-in-String](https://www.codewars.com/kata/5ace2d9f307eb29430000092)</br>
 * [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/)</br>
+* [Jaden-Casing-Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)</br>
