@@ -41,3 +41,4 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/)</br>
 * [Jaden-Casing-Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)</br>
 * [Complementary-DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)</br>
+* [Convert-a-String-to-a-Number](https://www.codewars.com/kata/544675c6f971f7399a000e79)</br>
