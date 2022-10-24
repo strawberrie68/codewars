@@ -43,3 +43,4 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Complementary-DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)</br>
 * [Convert-a-String-to-a-Number](https://www.codewars.com/kata/544675c6f971f7399a000e79)</br>
 * [String-ends-with](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)</br>
+* [Credit-Card-Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)</br>
