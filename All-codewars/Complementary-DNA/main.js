@@ -42,6 +42,8 @@ function DNAStrand(dna){
    //but that is such a long and tedious solution
 
 //Better solution
+//the dot replaces any charaters
+//so I can use replace and /./ and an object
 function DNAStrand(dna) {
   return dna.replace(/./g, function(c) {
     return DNAStrand.pairs[c]
@@ -54,3 +56,11 @@ DNAStrand.pairs = {
   C: 'G',
   G: 'C',
 }
+
+//another solution
+
+var pairs = {'A':'T','T':'A','C':'G','G':'C'};
+
+function DNAStrand(dna){
+    return dna.split('').map(function(v){ return pairs[v] }).join('');
+  }
