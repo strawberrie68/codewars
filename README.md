@@ -44,3 +44,5 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Convert-a-String-to-a-Number](https://www.codewars.com/kata/544675c6f971f7399a000e79)</br>
 * [String-ends-with](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)</br>
 * [Credit-Card-Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)</br>
+* [Convert-a-Boolean-to-a-String](https://www.codewars.com/kata/551b4501ac0447318f0009cd/)</br>
+* [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)</br>
