@@ -13,9 +13,12 @@
 //need to learn how to use map
 
 //it creates a new array
+//and it can be formatted map(function(c,i){...})
+//but since there is an arrow function can get rid of the arrow function
+//map((c,i) => ...
+//it can spit out both values, index and even the whole array
 
 
 // function accum(s) {
 //     return s.split('').map((c, i) => (c.toUpperCase() + c.toLowerCase().repeat(i))).join('-');
 //   }
-
