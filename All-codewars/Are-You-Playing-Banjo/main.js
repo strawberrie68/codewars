@@ -13,11 +13,12 @@
 const areYouPlayingBanjo = name =>name.charAt(0).toLowerCase() === 'r'? `${name} plays banjo`:`${name} does not play banjo`
   
 //Better solution
+//Instead of rewriting all code I should have only made it so ternary operator
+//write the whole sentence I should have only focused on the difference
+//in this case plays and does not play
 
 function areYouPlayingBanjo(name) {
     return name + (name[0].toLowerCase() == 'r' ? ' plays' : ' does not play') + " banjo";
   }
 
-//Instead of rewriting all code I should have only made it so ternary operator
-//write the whole sentence I should have only focused on the difference
-//in this case plays and does not play
+
