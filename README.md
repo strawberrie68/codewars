@@ -49,3 +49,5 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Reverse-words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)</br>
 * [Are-You-Playing-Banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832)</br>
 * [Fake-Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/)</br>
+* [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/)</br>
+* [Convert-an-array-of-strings-to-array-of-numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23/)</br>
