@@ -54,3 +54,4 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Sentence-Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)</br>
 * [If-you-cant-sleep-just-count-sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)</br>
 * [Grasshopper-Personalized-Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7)</br>
+* [Sum-Mixed-Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)</br>

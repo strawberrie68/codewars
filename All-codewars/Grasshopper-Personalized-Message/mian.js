@@ -10,3 +10,10 @@
 function greet (name, owner) {
     return   name === owner ? 'Hello boss': 'Hello guest'
   }
+
+//Other solution
+
+//could have put the whole thing in `` and only change one word
+function greet (name, owner) {
+    return `Hello ${name==owner?'boss':'guest'}`
+  }
