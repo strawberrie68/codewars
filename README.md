@@ -51,3 +51,6 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Fake-Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/)</br>
 * [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/)</br>
 * [Convert-an-array-of-strings-to-array-of-numbers](https://www.codewars.com/kata/5783d8f3202c0e486c001d23/)</br>
+* [Sentence-Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d)</br>
+* [If-you-cant-sleep-just-count-sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)</br>
+* [Grasshopper-Personalized-Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7)</br>
