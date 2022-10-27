@@ -55,3 +55,5 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [If-you-cant-sleep-just-count-sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)</br>
 * [Grasshopper-Personalized-Message](https://www.codewars.com/kata/5772da22b89313a4d50012f7)</br>
 * [Sum-Mixed-Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)</br>
+* [Who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)</br>
+* [The-Coupon-Code](https://www.codewars.com/kata/539de388a540db7fec000642)</br>
