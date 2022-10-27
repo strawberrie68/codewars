@@ -57,3 +57,4 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Sum-Mixed-Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009)</br>
 * [Who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)</br>
 * [The-Coupon-Code](https://www.codewars.com/kata/539de388a540db7fec000642)</br>
+* [Double-Char](https://www.codewars.com/kata/56b1f01c247c01db92000076)</br>
