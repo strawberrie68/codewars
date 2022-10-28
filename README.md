@@ -60,3 +60,4 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Double-Char](https://www.codewars.com/kata/56b1f01c247c01db92000076)</br>
 * [Correct-the-mistakes-of-the-character-recognition-software](https://www.codewars.com/kata/577bd026df78c19bca0002c0)</br>
 * [Anagram-Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)</br>
+* [Sort-and-Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)</br>
