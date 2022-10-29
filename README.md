@@ -62,3 +62,6 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Anagram-Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)</br>
 * [Sort-and-Star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e)</br>
 * [Remove-anchor-from-URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/)</br>
+* [Find-the-capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b)</br>
+* [Name-Shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a)</br>
+* [Exclamation-marks-series-1](https://www.codewars.com/kata/57fae964d80daa229d000126/)</br>
