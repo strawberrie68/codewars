@@ -65,3 +65,4 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Find-the-capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b)</br>
 * [Name-Shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a)</br>
 * [Exclamation-marks-series-1](https://www.codewars.com/kata/57fae964d80daa229d000126/)</br>
+* [Alan-Partridge-Apple-Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)</br>
