@@ -66,5 +66,8 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Name-Shuffler](https://www.codewars.com/kata/559ac78160f0be07c200005a)</br>
 * [Exclamation-marks-series-1](https://www.codewars.com/kata/57fae964d80daa229d000126/)</br>
 * [Alan-Partridge-Apple-Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)</br>
-* [String-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)</br>
+<!-- 7kyu -->
+<!-- 8kyu -->
 * [Welcome-to-the-city](https://www.codewars.com/kata/5302d846be2a9189af0001e4/)</br>
+* [String-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)</br>
+* [Well-of-Ideas-Easy-Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)</br> 
