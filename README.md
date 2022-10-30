@@ -66,20 +66,11 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 <!-- 8kyu -->
 * [Welcome-to-the-city](https://www.codewars.com/kata/5302d846be2a9189af0001e4/)</br>
 * [String-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)</br>
-<<<<<<< HEAD
 * [Well-of-Ideas-Easy-Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)</br> 
-=======
+
+
+<!-- 7kyu -->
+<!-- 8kyu -->
 * [Welcome-to-the-city](https://www.codewars.com/kata/5302d846be2a9189af0001e4/)</br>
-
-#### More
-<details>
-<summary>More codewars compeleted</summary>
-</details>
-
-
-
-![GitHub top language](https://img.shields.io/github/languages/top/strawberrie68/codewars)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/strawberrie68/codewars)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/strawberrie68/codewars)
-![GitHub last commit](https://img.shields.io/github/last-commit/strawberrie68/codewars)
->>>>>>> 5f191d13e9d5a15124c715aa404609ce26fe54b2
+* [String-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)</br>
+* [Well-of-Ideas-Easy-Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)</br> 
