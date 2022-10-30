@@ -66,9 +66,7 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 <!-- 8kyu -->
 * [Welcome-to-the-city](https://www.codewars.com/kata/5302d846be2a9189af0001e4/)</br>
 * [String-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)</br>
-<<<<<<< HEAD
 * [Well-of-Ideas-Easy-Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)</br> 
-=======
 * [Welcome-to-the-city](https://www.codewars.com/kata/5302d846be2a9189af0001e4/)</br>
 
 #### More
