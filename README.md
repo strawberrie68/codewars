@@ -82,4 +82,4 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/strawberrie68/codewars)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/strawberrie68/codewars)
 ![GitHub last commit](https://img.shields.io/github/last-commit/strawberrie68/codewars)
->>>>>>> 5f191d13e9d5a15124c715aa404609ce26fe54b2
+
