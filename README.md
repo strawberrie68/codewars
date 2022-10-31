@@ -40,6 +40,7 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Alternate-capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)</br>
 * [Coding Meetup-1-Higher-Order-Functions-Series](https://www.codewars.com/kata/582746fa14b3892727000c4f)</br>
 * [Alphabet-war](https://www.codewars.com/kata/59377c53e66267c8f6000027/)</br>
+* [Bumps-in-the-Road](https://www.codewars.com/kata/57ed30dde7728215300005fa)</br>
 <!-- 8kyu -->
 * [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)</br>
 * [Are-You-Playing-Banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832)</br>
@@ -66,6 +67,7 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Welcome-to-the-city](https://www.codewars.com/kata/5302d846be2a9189af0001e4/)</br>
 * [Reversing-Words-in-a-String](https://www.codewars.com/kata/57a55c8b72292d057b000594/)</br>
 * [L1-Bartender-drinks](https://www.codewars.com/kata/568dc014440f03b13900001d/)</br>
+* [Define-a-card-suit](https://www.codewars.com/kata/5a360620f28b82a711000047)</br>
 
 
 <!-- #### More
