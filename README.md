@@ -38,7 +38,9 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Remove-anchor-from-URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/)</br>
 * [Find-the-capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b)</br>
 * [Alternate-capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)</br>
-* [Coding Meetup-1-Higher-Order-Functions-Series](https://www.codewars.com/kata/582746fa14b3892727000c4f)</br><!-- 8kyu -->
+* [Coding Meetup-1-Higher-Order-Functions-Series](https://www.codewars.com/kata/582746fa14b3892727000c4f)</br>
+* [Alphabet-war](https://www.codewars.com/kata/59377c53e66267c8f6000027/)</br>
+<!-- 8kyu -->
 * [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)</br>
 * [Are-You-Playing-Banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832)</br>
 * [Fake-Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/)</br>
