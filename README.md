@@ -21,8 +21,7 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 
 ### 💪 **Codewars Completed:**
 <!-- 6kyu -->
-* [Who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)</br>
-<!-- 7kyu -->
+* [Who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)</br><!-- 7kyu -->
 * [Credit-Card-Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)</br>
 * [Reverse-words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)</br>
 * [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/)</br>
@@ -39,8 +38,7 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Remove-anchor-from-URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/)</br>
 * [Find-the-capitals](https://www.codewars.com/kata/539ee3b6757843632d00026b)</br>
 * [Alternate-capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)</br>
-* [Coding Meetup-1-Higher-Order-Functions-Series](https://www.codewars.com/kata/582746fa14b3892727000c4f)</br>
-<!-- 8kyu -->
+* [Coding Meetup-1-Higher-Order-Functions-Series](https://www.codewars.com/kata/582746fa14b3892727000c4f)</br><!-- 8kyu -->
 * [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)</br>
 * [Are-You-Playing-Banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832)</br>
 * [Fake-Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/)</br>
