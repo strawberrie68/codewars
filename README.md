@@ -63,16 +63,19 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Exclamation-marks-series-1](https://www.codewars.com/kata/57fae964d80daa229d000126/)</br>
 * [Alan-Partridge-Apple-Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d)</br>
 <!-- 7kyu -->
+* [Alternate-capitalization](https://www.codewars.com/kata/59cfc000aeb2844d16000075)</br>
 <!-- 8kyu -->
 * [Welcome-to-the-city](https://www.codewars.com/kata/5302d846be2a9189af0001e4/)</br>
 * [String-cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251)</br>
 * [Well-of-Ideas-Easy-Version](https://www.codewars.com/kata/57f222ce69e09c3630000212)</br> 
 * [Welcome-to-the-city](https://www.codewars.com/kata/5302d846be2a9189af0001e4/)</br>
+* [Reversing-Words-in-a-String](https://www.codewars.com/kata/57a55c8b72292d057b000594/)</br>
+* [L1-Bartender-drinks](https://www.codewars.com/kata/568dc014440f03b13900001d/)</br>
 
-#### More
+<!-- #### More
 <details>
 <summary>More codewars compeleted</summary>
-</details>
+</details> -->
 
 
 
