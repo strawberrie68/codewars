@@ -41,6 +41,9 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Coding Meetup-1-Higher-Order-Functions-Series](https://www.codewars.com/kata/582746fa14b3892727000c4f)</br>
 * [Alphabet-war](https://www.codewars.com/kata/59377c53e66267c8f6000027/)</br>
 * [Bumps-in-the-Road](https://www.codewars.com/kata/57ed30dde7728215300005fa)</br>
+* [Most-Digits](https://www.codewars.com/kata/58daa7617332e59593000006)</br>
+* [Number-of-Decimal-Digits](https://www.codewars.com/kata/58fa273ca6d84c158e000052)</br>
+* [Greet-Me](https://www.codewars.com/kata/535474308bb336c9980006f2)</br>
 <!-- 8kyu -->
 * [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)</br>
 * [Are-You-Playing-Banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832)</br>
