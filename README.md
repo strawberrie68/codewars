@@ -21,7 +21,8 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 
 ### 💪 **Codewars Completed:**
 <!-- 6kyu -->
-* [Who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)</br><!-- 7kyu -->
+* [Who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)</br>
+* [Detect-Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)</br><!-- 7kyu -->
 * [Credit-Card-Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)</br>
 * [Reverse-words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)</br>
 * [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/)</br>
