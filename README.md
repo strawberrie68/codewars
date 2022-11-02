@@ -44,6 +44,7 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Bumps-in-the-Road](https://www.codewars.com/kata/57ed30dde7728215300005fa)</br>
 * [Most-Digits](https://www.codewars.com/kata/58daa7617332e59593000006)</br>
 * [Number-of-Decimal-Digits](https://www.codewars.com/kata/58fa273ca6d84c158e000052)</br>
+* [Square-Every-Digit](https://www.codewars.com/kata/546e2562b03326a88e000020/)</br>
 * [Greet-Me](https://www.codewars.com/kata/535474308bb336c9980006f2)</br>
 <!-- 8kyu -->
 * [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)</br>
