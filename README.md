@@ -76,6 +76,7 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Reversing-Words-in-a-String](https://www.codewars.com/kata/57a55c8b72292d057b000594/)</br>
 * [L1-Bartender-drinks](https://www.codewars.com/kata/568dc014440f03b13900001d/)</br>
 * [Define-a-card-suit](https://www.codewars.com/kata/5a360620f28b82a711000047)</br>
+* [Get-number-from-string](https://www.codewars.com/kata/57a37f3cbb99449513000cd8)</br>
 
 
 <!-- #### More
