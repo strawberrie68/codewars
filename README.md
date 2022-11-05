@@ -49,7 +49,9 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Youre-a-square](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)</br>
 * [Descending-Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)</br>
 * [Switcheroo](https://www.codewars.com/kata/57f759bb664021a30300007d/)</br>
-* [Alphabet-symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0)<!-- 8kyu -->
+* [Alphabet-symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0)
+* [Sort-the-Gift-Code](https://www.codewars.com/kata/52aeb2f3ad0e952f560005d3)</br>
+* [Digits-explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314/)</br><!-- 8kyu -->
 * [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)</br>
 * [Are-You-Playing-Banjo](https://www.codewars.com/kata/53af2b8861023f1d88000832)</br>
 * [Fake-Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/)</br>
