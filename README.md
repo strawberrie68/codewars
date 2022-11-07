@@ -81,10 +81,12 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Get-number-from-string](https://www.codewars.com/kata/57a37f3cbb99449513000cd8)</br>
 
 
-<!-- #### More
+#### More
 <details>
 <summary>More codewars compeleted</summary>
-</details> -->
+* [Name-on-a-Billboard](https://www.codewars.com/kata/570e8ec4127ad143660001fd)</br>
+* [Is-there-a-vowel-in-there](https://www.codewars.com/kata/57cff961eca260b71900008f/)</br>
+</details>
 
 
 
