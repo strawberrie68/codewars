@@ -85,7 +85,8 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 <details>
 <summary>More codewars compeleted</summary>
 * [Name-on-a-Billboard](https://www.codewars.com/kata/570e8ec4127ad143660001fd)</br>
-* [Is-there-a-vowel-in-there](https://www.codewars.com/kata/57cff961eca260b71900008f/)</br>
+* [Is-there-a-vowel-in-there](https://www.codewars.com/kata/57cff961eca260b71900008f/)
+* [Divide-and-Conquer](https://www.codewars.com/kata/57eaec5608fed543d6000021)</br>
 </details>
 
 
