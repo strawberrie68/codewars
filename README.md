@@ -90,6 +90,8 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [UEFA-EURO-2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
 </br>
 * [List-Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)</br>
+* [Exes-and-Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)</br>
+* [Shortest-Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)</br>
 </details>
 
 
