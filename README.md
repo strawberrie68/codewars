@@ -92,6 +92,8 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [List-Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)</br>
 * [Exes-and-Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)</br>
 * [Shortest-Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)</br>
+* [squaren-sum](https://www.codewars.com/kata/515e271a311df0350d00000)</br>
+* [Find-the-smallest-integer-in-the-array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/)</br>
 </details>
 
 
