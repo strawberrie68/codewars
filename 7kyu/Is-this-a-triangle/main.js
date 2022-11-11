@@ -14,3 +14,11 @@ function isTriangle(a,b,c){
     let sorted =array.sort(function(a, b){return a - b})
     return sorted[0]+ sorted[1] >sorted[2]? true: false
   }
+
+//Could have written it better
+
+function isTriangle(a,b,c){
+  [a, b, c] = [a, b, c].sort((x, y) => x-y);
+  
+  return a+b > c;
+}
