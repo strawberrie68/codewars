@@ -24,7 +24,8 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Who-likes-it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)</br>
 * [Detect-Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)</br>
 * [Multiples-of-3-or-5](https://www.codewars.com/kata/514b92a657cdc65150000006/)</br>
-* [Create-Phone-Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)</br><!-- 7kyu -->
+* [Create-Phone-Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)</br>
+* [Sum-of-Digits-Digital-Root](https://www.codewars.com/kata/541c8630095125aba6000c00)<!-- 7kyu -->
 * [Credit-Card-Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)</br>
 * [Reverse-words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)</br>
 * [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/)</br>
