@@ -26,7 +26,8 @@ For Each problem, I compared my solution and how I could optimize it. </br>
 * [Multiples-of-3-or-5](https://www.codewars.com/kata/514b92a657cdc65150000006/)</br>
 * [Create-Phone-Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)</br>
 * [Sum-of-Digits-Digital-Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
-* [Find-he-odd-int](https://www.codewars.com/kata/54da5a58ea159efa38000836/)</br><!-- 7kyu -->
+* [Find-he-odd-int](https://www.codewars.com/kata/54da5a58ea159efa38000836/)</br>
+* [CamelCase-Method](https://www.codewars.com/kata/587731fda577b3d1b0001196/)</br><!-- 7kyu -->
 * [Credit-Card-Mask](https://www.codewars.com/kata/5412509bd436bd33920011bc)</br>
 * [Reverse-words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)</br>
 * [Incrementer](https://www.codewars.com/kata/590e03aef55cab099a0002e8/)</br>
