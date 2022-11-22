@@ -14,4 +14,3 @@ var uniqueInOrder=function(iterable){
 }
 
 
-uniqueInOrder('AAAABBBCCDAABBB') == ['A', 'B', 'C', 'D', 'A', 'B']
