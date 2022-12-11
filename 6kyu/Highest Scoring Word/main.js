@@ -22,3 +22,11 @@ function high(x){
      return x.split(' ')[replacedWithNumbers.indexOf(Math.max(...replacedWithNumbers))]
   
   }
+
+//Could have written it as
+//could have used charcodeat and minus 96
+
+function high(s){
+    let as = s.split(' ').map(s=>[...s].reduce((a,b)=>a+b.charCodeAt(0)-96,0));
+    return s.split(' ')[as.indexOf(Math.max(...as))];
+  }
