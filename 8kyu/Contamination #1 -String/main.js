@@ -17,3 +17,9 @@
 function contamination(text, char){
     return text.replace(/./g, char)
   }
+
+
+//alo could have
+function contamination(text, char){
+    return char.repeat(text.length)
+  }
