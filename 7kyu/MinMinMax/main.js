@@ -23,3 +23,4 @@ function minMinMax(arr) {
   	if (!arr.includes(i)) return [min, i, max];
   }
 }
+
