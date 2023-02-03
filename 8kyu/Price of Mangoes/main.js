@@ -20,3 +20,8 @@ function mango(quantity, price){
     return (quantity-freeCounter)*price
     
   }
+
+//Could have written
+function mango(quantity, price){
+    return price * (quantity - Math.floor(quantity / 3));
+  }
