@@ -27,3 +27,7 @@ function encode(plaintext){
     }return newStr.join('')
     
     }
+
+
+//Could have written
+const encode = plaintext => plaintext.replace(/[a-z]/gi, c => 1 - c.charCodeAt(0) % 2)
