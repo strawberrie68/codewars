@@ -12,3 +12,5 @@ function alternateCase(s) {
   function alternateCase(s) {
     return s.split('').map((a) => a == a.toLowerCase()? a.toUpperCase(): a.toLowerCase() ).join('')
   }
+
+  alternateCase = (s) => s.split('').map(x => x === x.toUpperCase() ? x.toLowerCase() : x.toUpperCase()).join('');
