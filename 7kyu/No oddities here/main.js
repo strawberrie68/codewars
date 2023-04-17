@@ -1,0 +1,16 @@
+// Write a small function that returns the values of an array that are not odd.
+
+// All values in the array will be integers. Return the good values in the order they are given.
+
+
+//My solution
+
+function noOdds( values ){
+    let odd = []
+    values.map((a,i)=> a % 2 == 0 ? odd.push(a) : '' )
+    return odd
+
+}
+
+//Other Solutions
+var noOdds = values => values.filter(x => x % 2 === 0);
