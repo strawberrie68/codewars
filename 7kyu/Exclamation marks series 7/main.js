@@ -15,3 +15,14 @@
 function remove(s){
     return s.split(' ').filter(i => i.split('!').length != 2).join(' ');
   }
+
+
+//other solution
+
+function remove (string) {
+  let newString = [] 
+   string.split(' ').map((a)=>a.replace(/[^!]/g, '').length !== 1 ? newString.push(a) : '')
+    return String(newString).split(',').join(' ')
+                           
+     }
+ 
