@@ -26,13 +26,17 @@ function minSum(arr) {
   //or
 
   const minSum = arr =>
-  arr.sort((a, b) => a - b).reduce((pre, val) => pre + val * arr.pop
+  arr.sort((a, b) => a - b).reduce((pre, val) => pre + val * arr.pop)
+  
+    //or
+
+    
   function minSum(arr) {
     arr.sort((x,y)=>x-y)
     s=0
     while(arr.length)s+=arr.pop()*arr.shift()
     return s
   }
-  //or
+
 
 
